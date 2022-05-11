@@ -1,0 +1,13 @@
+// int add_num = 100 + 50;
+// int sub_num = 100-50;
+// int multi_num = 100*50;
+// int divide_num = 100/50;
+// int mod_num = 5/2;
+// int x = 100;
+// x++;
+// Console.WriteLine("+: "+add_num);
+// Console.WriteLine("-: "+sub_num);
+// Console.WriteLine("X: "+multi_num);
+// Console.WriteLine("/: "+divide_num);
+// Console.WriteLine("%: "+mod_num);
+// Console.WriteLine("++: "+x);
