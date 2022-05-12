@@ -8,3 +8,4 @@ Guess number game
 Anagram
 Rock, paper, scissors
 Password generator
+discount calcualtions
