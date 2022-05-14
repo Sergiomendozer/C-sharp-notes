@@ -9,3 +9,9 @@ Anagram
 Rock, paper, scissors
 Password generator
 discount calcualtions
+
+# dotnet new console -o FizzBuzz
+# cd FizzBuzz
+# code .
+
+command prompt(.net build and run)
