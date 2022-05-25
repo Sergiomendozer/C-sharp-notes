@@ -15,3 +15,4 @@ discount calcualtions
 # code .
 
 command prompt(.net build and run)
+projecct: movie/netflix clone, birthday app
