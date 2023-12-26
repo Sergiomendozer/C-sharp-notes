@@ -1,4 +1,13 @@
-# C-sharp-notes
+# C-sharp-notes VS CODE:::
+Shift>command>p
+.net new project
+New ConsoleApp
+
+
+-----------------------------------------
+
+
+
 https://www.mycompiler.io/new/csharp
 
 https://replit.com/@sergiomendoza7
